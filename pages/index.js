@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Save LACMA</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Save LACMA" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+    <img src="https://res.cloudinary.com/on-bunker-hill/image/upload/f_auto/q_auto/v1683590336/savelacma-logo-alt-web_l8yxb9.png">
         </p>
       </main>
 
