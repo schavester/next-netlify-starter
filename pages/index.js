@@ -13,8 +13,7 @@ export default function Home() {
       <main>
         <Header title="Save LACMA" />
         <p className="description">
-    <img src="https://res.cloudinary.com/on-bunker-hill/image/upload/f_auto/q_auto/v1683590336/savelacma-logo-alt-web_l8yxb9.png">
-        </p>
+help us save lacma        </p>
       </main>
 
       <Footer />
