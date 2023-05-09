@@ -13,6 +13,7 @@ export default function Home() {
       <main>
         <Header title="Save LACMA" />
         <p className="description">
+    Save LACMA
      </p>
       </main>
 
